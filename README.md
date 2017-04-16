@@ -30,4 +30,4 @@ documents structure
 
 ### Result
 从分词结果的频度可以看出，截止 2017-03-10 liepin.com 有关招聘方对python工程师在数据分析方向有很大的需求
-
+![result](https://github.com/sstoner/liepin_spider/tree/master/demo)
